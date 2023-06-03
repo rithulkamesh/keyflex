@@ -3,7 +3,7 @@
 A Highly modular keyboard made @ [Hack Club's](https://hackclub.com) Onboard Grant
 
 
-# Contributors
+### Contributors
 
-    - [Rithul Kamesh](https://github.com/rithulkamesh)
-    - [Shrey Mehra](https://github.com/Shrey-Mehra)
+  - [Rithul Kamesh](https://github.com/rithulkamesh)
+  - [Shrey Mehra](https://github.com/Shrey-Mehra)
