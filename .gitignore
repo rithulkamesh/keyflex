@@ -1,2 +1,6 @@
 # MacOS being MacOS
 .DS_Store
+
+# NodeJS Stuff for Docs
+.next
+node_modules
